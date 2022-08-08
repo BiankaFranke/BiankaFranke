@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=BiankaFranke)
+![](https://komarev.com/ghpvc/?username=BiankaFranke&color=blueviolet&style=for-the-badge)
 
 <!--
 **BiankaFranke/BiankaFranke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
